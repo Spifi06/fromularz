@@ -1,0 +1,17 @@
+body {
+font-family: Poppins;
+text-align: center;
+background-color: #FAEBD7;
+}
+h1{
+	color:#DAA520;	
+}
+#ip1{
+	border-radius: 25px;
+    border: 2px solid;
+  
+}
+#ip2{
+  border: 1px solid black; 
+  clip-path: polygon(100% 10%, 20% 10%,20% 10%, 20% 10%,);
+}
